@@ -1,1 +1,5 @@
-Practica 1: ---
+Practica 1: Crear un CRUD en donde: 1. Se pueda ingresar un producto (ID, nombre, precio, cantidad)
+                                    2. Listar los registros
+                                    3. Modificar el registro de un producto
+                                    4. Eliminar el registro de un producto
+                                    5. Se debe generar un CSV.
