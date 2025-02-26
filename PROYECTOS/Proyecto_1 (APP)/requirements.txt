@@ -1,0 +1,6 @@
+streamlit
+streamlit-option-menu
+psycopg2
+psycopg2-binary
+mysql-connector-python
+python-dotenv == 0.21.0
