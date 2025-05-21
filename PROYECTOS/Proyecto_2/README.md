@@ -35,7 +35,7 @@
         ├── **.env**
 
 El contenido del archivo **.env** debe tener esta estructura:
-DATA_PATH = \ruta\a\tu\carpeta\de\datos\PROYECTOS\Proyecto_2\classes\data
+DATA_PATH = C:\ruta\a\tu\carpeta\de\datos\PROYECTOS\Proyecto_2\classes\data
 
 ## Instalación y Uso
 1. Clona el repositorio:

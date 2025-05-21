@@ -12,6 +12,7 @@ class App:
         print("Bienvenido al sistema de ejecución de consultas SQL personalizadas.")
         print("Escribe 'salir' para terminar el programa.")
         while True:
+            
             query = input(">> ")
 
             if query.strip().lower() == "salir":
