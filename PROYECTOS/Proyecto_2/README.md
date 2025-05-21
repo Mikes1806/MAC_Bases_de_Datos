@@ -20,11 +20,12 @@
 
 ## Requisitos
 • Python 3.10 (en adelante).
-• Biblioteca estándar de Python:
+• Bibliotecas estándar de Python:
    - os: para manejo del sistema de archivos.
    - csv: para lectura y escritura de archivos .csv.
    - re: para parseo con expresiones regulares.
-• python-dotenv: para cargar variables de entorno desde un archivo .env.
+• Bibliotecas externas necesarias:
+   - python-dotenv: para cargar variables de entorno desde un archivo .env.
 
 ## Configuración
 • Crea el archivo **.env** en la raiz del proyecto, al mismo nivel que la carpeta **classes** y el **main.py**:
