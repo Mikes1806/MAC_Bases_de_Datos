@@ -19,3 +19,10 @@ Generar una base de datos con 2 esquemas diferentes al public, se pide:
 2. El primer esquema debe tener 1 usuario DDL, 1 usuario DML, 1 Read y 2 Write.
 3. El segundo esquema debe tener 1 usuario DDL y 3 Read.
 4. El owner de las tablas debe ser el rol DDL (No importa quien cree las tablas).
+
+## PROYECTO 4:
+Generar una base de datos estrella con los siguientes requerimientos:
+1. Crear una tabla factual **Ventas** que tenga como dimensiones a **Fecha**, **Producto** y **Tienda**.
+2. Los Datasets deben ser creados con Faker.
+3. Utilizar Pandas.
+4. Se deben mostrar cuatro consultas: total de ventas por mes, total de ventas por ciudad, producto mas vendido y una comprativa de ventas entre tiendas.

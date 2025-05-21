@@ -31,7 +31,7 @@
 • PostgreSQL (versión 13 o superior recomendada).  
 • Cliente como **DBeaver** o **pgAdmin** para ejecutar el script SQL.
 
-## Instrucciones de uso
+## Instrucciones de Uso
 1. Clona el repositorio:
     git clone https://github.com/Mikes1806/MAC_Bases_de_Datos.git
 2. Ejecuta el script **roles.sql** en el cliente de tu preferencia (revisa que tengas los privilegios necesarios).
